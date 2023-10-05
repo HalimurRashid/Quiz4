@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE Basics Quiz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 2em;
+            background-color: #f9f9f9;
+        }
+
+        h1 {
+            color: #2c3e50;
+        }
+
+        .question-box {
+            border: 1px solid #3498db;
+            padding: 1em;
+            margin-bottom: 1.5em;
+            background-color: #fff;
+            border-radius: 4px;
+        }
+
+        p {
+            margin-top: 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #fff;
+            background-color: #3498db;
+            padding: 10px 15px;
+            border-radius: 4px;
+            display: inline-block;
+            margin-top: 1em;
+            transition: background-color 0.3s ease;
+        }
+
+        a:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>CSE Basics Quiz</h1>
+
+    <!-- question1 -->
+    <div class="question-box">
+        <p>1. What is the full form of CSE?</p>
+        <input type="radio" id="q1a" name="q1"> <label for="q1a">Computer Science and Engineering</label><br>
+        <input type="radio" id="q1b" name="q1"> <label for="q1b">Civil Services Examination</label><br>
+        <input type="radio" id="q1c" name="q1"> <label for="q1c">Colombo Stock Exchange </label><br>
+    </div>
+
+    <!-- question2 -->
+    <div class="question-box">
+        <p>2. Who is considered the father of Computer Science?</p>
+        <input type="radio" id="q2a" name="q2"> <label for="q2a"> Bill Gates</label><br>
+        <input type="radio" id="q2b" name="q2"> <label for="q2b">Steve Jobs</label><br>
+        <input type="radio" id="q2c" name="q2"> <label for="q2c">Alan Turing</label><br>
+    </div>
+
+    <!-- question3 -->
+    <div class="question-box">
+        <p>3. What is a loop in programming?</p>
+        <input type="radio" id="q3a" name="q3"> <label for="q3a">A type of data structure.</label><br>
+        <input type="radio" id="q3b" name="q3"> <label for="q3b">A way to repeat a block of code multiple times.</label><br>
+        <input type="radio" id="q3c" name="q3"> <label for="q3c">A way to store multiple values in a single variable.</label><br>
+    </div>
+
+    <!-- question4 -->
+    <div class="question-box">
+        <p>4. What is a data structure in programming?</p>
+        <input type="radio" id="q4a" name="q4"> <label for="q4a">An algorithm for storing data in memory.</label><br>
+        <input type="radio" id="q4b" name="q4"> <label for="q4b">An object that contains data and methods for working with that data.</label><br>
+        <input type="radio" id="q4c" name="q4"> <label for="q4c">A way to organize and store data in memory so that it can be accessed efficiently.</label><br>
+    </div>
+
+    <!-- question5 -->
+    <div class="question-box">
+        <p>5. Which one is used for header file in C?</p>
+        <input type="radio" id="q5a" name="q5"> <label for="q5a">&lt;Math.h&gt;</label><br>
+        <input type="radio" id="q5b" name="q5"> <label for="q5b">&lt;style&gt;</label><br>
+        <input type="radio" id="q5c" name="q5"> <label for="q5c">&lt;css&gt;</label><br>
+    </div>
+
+    <a href="solution.html">Check Answers</a>
+</body>
+
+</html>

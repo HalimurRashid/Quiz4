@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Answers to  Basics Quiz</title>
+    <style>
+        /* Basic body styling */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        }
+
+        /* Link styling */
+        a {
+            color: #007BFF;
+            text-decoration: none;
+            padding: 5px;
+        }
+
+        /* Hover effect for the link */
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Answers</h1>
+    <ol>
+        <li> Computer Science and Engineering</li>
+        <li> Alan Turing</li>
+        <li> A way to repeat a block of code multiple times.</li>
+        <li>A way to organize and store data in memory so that it can be accessed efficiently.</li>
+        <li>&lt;Math.h&gt;</li>
+    </ol>
+
+    <a href="index.html">Back to Quiz</a>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
